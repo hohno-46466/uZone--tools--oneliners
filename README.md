@@ -1,10 +1,15 @@
 # uZone--tools--oneliners
-hohno's collection of one liners
+
+hohno's collection of one-liners
 
     ./uZone--tools--oneliners
+     ├── NTPtime2unixTime.sh
      ├── README.md
+     ├── dumpNTPpacket.sh
      ├── gamma-correction.sh
+     ├── mkbarcode-demo.sh
+     ├── mkqrcode-demo.sh
      ├── unixTime2ISO8601time.sh
      └── unixTime2humanReadableTime.sh
-     
-     0 directories, 4 files
+
+     0 directories, 8 files
