@@ -2,21 +2,16 @@
 
 hohno's collection of one-liners
 
-    ./uZone--tools--oneliners
-     ├── NTPtime2unixTime.sh
-     ├── README.md
-     ├── dumpNTPpacket.sh
+    uZone--tools--oneliners
      ├── gamma-correction.sh
-     ├── getNTPdata.sh
      ├── mkbarcode-demo.sh
      ├── mkqrcode-demo.sh
-     ├── unixTime2ISO8601time.sh
-     └── unixTime2humanReadableTime.sh
+     ├── obsolete
+     │   ├── dumpNTPpacket.sh
+     │   ├── getNTPdata.sh
+     │   ├── NTPtime2unixTime.sh
+     │   ├── unixTime2humanReadableTime.sh
+     │   └── unixTime2ISO8601time.sh
+     └── README.md
      
-     0 directories, 9 files
-
-* Example: 
-
-    $ getNTPdata.sh | dumpNTPpacket.sh  | grep RecTime | awk '{print $3}' | NTPtime2unixTime.sh  | unixTime2humanReadableTime.sh 
-      20210717-221813
-
+     1 directory, 9 files (Last update: Sun 01 Aug 2021 09:46:10 AM JST)
