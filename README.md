@@ -1,4 +1,4 @@
-# uZone--tools--oneliners
+# GitHub/uZone--tools--oneliners
 
 hohno's collection of one-liners
 
@@ -15,3 +15,5 @@ hohno's collection of one-liners
      └── README.md
      
      1 directory, 9 files (Last update: Sun 01 Aug 2021 09:46:10 AM JST)
+
+-EOF-
