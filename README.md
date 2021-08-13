@@ -16,4 +16,6 @@ hohno's collection of one-liners
      
      1 directory, 9 files (Last update: Sun 01 Aug 2021 09:46:10 AM JST)
 
+Note: 	url = https://github.com/hohno-46466/uZone--tools--oneliners
+
 -EOF-
