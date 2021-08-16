@@ -18,4 +18,6 @@ hohno's collection of one-liners
 
 Note: 	url = https://github.com/hohno-46466/uZone--tools--oneliners
 
+Note:   url = git@github.com:hohno-46466/uZone--tools--oneliners.git
+
 -EOF-
