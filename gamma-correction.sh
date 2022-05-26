@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/bin/sh
 
 # Generating gamma correction table in C language format.
 
