@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/bin/sh
 
 # unixTime2ISO8601time.sh
 

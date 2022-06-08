@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/bin/sh
 
 # getNTPdata.sh
 # Last update: Thu Apr  9 06:34:13 JST 2020 by @hohno_at_kuimc
