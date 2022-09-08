@@ -2,7 +2,7 @@
 
 hohno's collection of one-liners
 
-    ./uZone--tools--oneliners
+     ./uZone--tools--oneliners
      ├──  README.md
      ├──  README.md.old
      ├──  gamma-correction.sh
@@ -17,7 +17,7 @@ hohno's collection of one-liners
      ├──  urldecode.sh
      └──  urlencode.sh
      
-     1 directory, 12 files (Mon Sep  5 19:33:11 JST 2022)
+     1 directory, 12 files (Fri Sep  9 06:46:40 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/uZone--tools--oneliners
