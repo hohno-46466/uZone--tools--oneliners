@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # dumpNTPpacket.sh
-# Last update: Thu Apr  9 06:34:13 JST 2020 by @hohno_at_kuimc
+# Last updated: Thu Apr  9 06:34:13 JST 2020 by @hohno_at_kuimc
 
 # Public domain
 
