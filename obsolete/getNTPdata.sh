@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # getNTPdata.sh
-# Last updated: Thu Apr  9 06:34:13 JST 2020 by @hohno_at_kuimc
+# Last update: Thu Apr  9 06:34:13 JST 2020 by @hohno_at_kuimc
 
 # Public domain
 
