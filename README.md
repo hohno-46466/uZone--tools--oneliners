@@ -6,18 +6,24 @@ hohno's collection of one-liners
      ├──  README.md
      ├──  README.md.old
      ├──  gamma-correction.sh
+     ├──  gamma-correction.sh.bak
      ├──  mkbarcode-demo.sh
      ├──  mkqrcode-demo.sh
      ├──  obsolete/
      │   ├──  NTPtime2unixTime.sh
+     │   ├──  NTPtime2unixTime.sh.bak
      │   ├──  dumpNTPpacket.sh
+     │   ├──  dumpNTPpacket.sh.bak
      │   ├──  getNTPdata.sh
+     │   ├──  getNTPdata.sh.bak
      │   ├──  unixTime2ISO8601time.sh
-     │   └──  unixTime2humanReadableTime.sh
+     │   ├──  unixTime2ISO8601time.sh.bak
+     │   ├──  unixTime2humanReadableTime.sh
+     │   └──  unixTime2humanReadableTime.sh.bak
      ├──  urldecode.sh
      └──  urlencode.sh
      
-     1 directory, 12 files (Sun Nov 20 00:11:44 JST 2022)
+     1 directory, 18 files (Mon Dec 19 23:54:37 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/uZone--tools--oneliners
